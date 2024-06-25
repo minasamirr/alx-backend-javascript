@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "node 0-main.js",
     "test": "jest"
   },
   "dependencies": {},
