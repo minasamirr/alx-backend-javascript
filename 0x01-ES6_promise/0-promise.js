@@ -5,4 +5,3 @@ function getResponseFromAPI() {
 }
 
 module.exports = getResponseFromAPI;
-
